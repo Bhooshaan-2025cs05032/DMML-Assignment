@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#mlflow
+mlruns/
+artifacts/
+models/
+
 # C extensions
 *.so
 
@@ -156,6 +161,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+dmmlenv/
 
 # Spyder project settings
 .spyderproject
