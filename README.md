@@ -1,4 +1,4 @@
-# DMML Assignment: MLFlow Experiment Tracking with DagsHub
+# DMML Assignment Group 7: MLFlow Experiment Tracking with DagsHub
 
 ## Project Overview
 
