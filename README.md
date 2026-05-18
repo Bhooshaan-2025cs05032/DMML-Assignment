@@ -4,6 +4,14 @@
 
 This assignment demonstrates **MLFlow experiment tracking** and **DagsHub-based centralized MLflow tracking** for collaborative machine learning workflows. The project showcases best practices for tracking machine learning experiments when multiple users collaborate on the same project.
 
+## Report
+
+[Assignment Report (PDF)](DMML_Assignment_Report.pdf)
+
+## Demo Recording
+
+[Watch the demo recording](https://drive.google.com/file/d/1o9aU2Y9pKBKLu3LeSSSR1boyFNB9eKAm/view?usp=sharing)
+
 ## Architecture Diagram
 ![MLflow DagsHub Architecture](Architecture/DMML_Architecture.png)
 
